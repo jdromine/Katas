@@ -1,0 +1,7 @@
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\bin\Debug\StringCalculatorTests.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\bin\Debug\StringCalculatorTests.pdb
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\bin\Debug\StringCalculatorKata.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\bin\Debug\StringCalculatorKata.pdb
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\obj\Debug\StringCalculatorTests.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\StringCalculatorKata\StringCalculatorTests\obj\Debug\StringCalculatorTests.pdb
