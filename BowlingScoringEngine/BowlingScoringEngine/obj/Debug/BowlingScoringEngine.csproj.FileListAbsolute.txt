@@ -1,0 +1,5 @@
+c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\bin\Debug\BowlingScoringEngine.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\bin\Debug\BowlingScoringEngine.pdb
+c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.csprojResolveAssemblyReference.cache
+c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.pdb
