@@ -1,0 +1,7 @@
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\bin\Debug\TicTacToeEngineTests.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\bin\Debug\TicTacToeEngineTests.pdb
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\bin\Debug\TicTacToeEngine.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\bin\Debug\TicTacToeEngine.pdb
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\obj\Debug\TicTacToeEngineTests.dll
+c:\users\josh romine\documents\visual studio 2013\Projects\TicTacToe\TicTacToeEngineTests\obj\Debug\TicTacToeEngineTests.pdb
