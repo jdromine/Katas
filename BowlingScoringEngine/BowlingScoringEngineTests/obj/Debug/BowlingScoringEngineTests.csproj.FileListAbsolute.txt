@@ -5,3 +5,10 @@ c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\BowlingScoringEngine.pdb
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.dll
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\BowlingScoringEngineTests.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\BowlingScoringEngineTests.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\BowlingScoringEngine.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\BowlingScoringEngine.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.csprojResolveAssemblyReference.cache
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.pdb

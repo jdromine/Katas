@@ -28,19 +28,19 @@ namespace BowlingScoringEngine
             int frameScore = 0;
 
             //frame 10 allows for a 3rd bonus ball
-            if (frame.FrameNumber == LAST_FRAME)
+            if (IsLastFrame(frame))
             {
                 frameScore = CalculateLastFrame(frame);
             }
             else
             {
                 //spare
-                if (frame.Ball_1.Result + frame.Ball_2.Result == NUMBER_OF_PINS && frame.Ball_1.Result != NUMBER_OF_PINS)
+                if (IsSpare(frame))
                 {
                     frameScore = NUMBER_OF_PINS + getNextFrame(frame, frames).Ball_1.Result;
                 }
                 //strike
-                else if (frame.Ball_1.Result == NUMBER_OF_PINS)
+                else if (IsStrike(frame))
                 {
                     //the max score for a single frame is 30 pins
                     frameScore = Math.Min(MAX_FRAME_SCORE, NUMBER_OF_PINS + CalculateFrameScore(getNextFrame(frame, frames), frames));
@@ -67,6 +67,21 @@ namespace BowlingScoringEngine
         private static int CalculateLastFrame(Frame frame)
         {
             return frame.Ball_1.Result + frame.Ball_2.Result + frame.Ball_3.Result;
+        }
+
+        private static bool IsLastFrame(Frame frame)
+        {
+            return frame.FrameNumber == LAST_FRAME;
+        }
+
+        private static bool IsSpare(Frame frame)
+        {
+            return frame.Ball_1.Result + frame.Ball_2.Result == NUMBER_OF_PINS && frame.Ball_1.Result != NUMBER_OF_PINS;
+        }
+
+        private static bool IsStrike(Frame frame)
+        {
+            return frame.Ball_1.Result == NUMBER_OF_PINS;
         }
     }
 }

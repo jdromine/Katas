@@ -3,3 +3,8 @@ c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.csprojResolveAssemblyReference.cache
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.dll
 c:\users\josh romine\documents\visual studio 2013\Projects\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngine\bin\Debug\BowlingScoringEngine.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngine\bin\Debug\BowlingScoringEngine.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.csprojResolveAssemblyReference.cache
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngine\obj\Debug\BowlingScoringEngine.pdb
