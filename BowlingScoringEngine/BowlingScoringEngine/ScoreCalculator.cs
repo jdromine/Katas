@@ -8,10 +8,6 @@ namespace BowlingScoringEngine
 {
     public static class ScoreCalculator
     {
-        public const int MAX_FRAME_SCORE = 30;
-        public const int NUMBER_OF_PINS = 10;
-        public const int LAST_FRAME = 10;
-
         public static int CalculateTotalScore(List<Frame> frames){
             int totalScore = 0;
 
@@ -37,13 +33,13 @@ namespace BowlingScoringEngine
                 //spare
                 if (IsSpare(frame))
                 {
-                    frameScore = NUMBER_OF_PINS + getNextFrame(frame, frames).Ball_1.Result;
+                    frameScore = GameConfiguration.NUMBER_OF_PINS + getNextFrame(frame, frames).Ball_1.Result;
                 }
                 //strike
                 else if (IsStrike(frame))
                 {
                     //the max score for a single frame is 30 pins
-                    frameScore = Math.Min(MAX_FRAME_SCORE, NUMBER_OF_PINS + CalculateFrameScore(getNextFrame(frame, frames), frames));
+                    frameScore = Math.Min(GameConfiguration.MAX_FRAME_SCORE, GameConfiguration.NUMBER_OF_PINS + CalculateFrameScore(getNextFrame(frame, frames), frames));
                 }
                 //not all pins knocked down
                 else
@@ -71,17 +67,17 @@ namespace BowlingScoringEngine
 
         private static bool IsLastFrame(Frame frame)
         {
-            return frame.FrameNumber == LAST_FRAME;
+            return frame.FrameNumber == GameConfiguration.LAST_FRAME;
         }
 
         private static bool IsSpare(Frame frame)
         {
-            return frame.Ball_1.Result + frame.Ball_2.Result == NUMBER_OF_PINS && frame.Ball_1.Result != NUMBER_OF_PINS;
+            return frame.Ball_1.Result + frame.Ball_2.Result == GameConfiguration.NUMBER_OF_PINS && frame.Ball_1.Result != GameConfiguration.NUMBER_OF_PINS;
         }
 
         private static bool IsStrike(Frame frame)
         {
-            return frame.Ball_1.Result == NUMBER_OF_PINS;
+            return frame.Ball_1.Result == GameConfiguration.NUMBER_OF_PINS;
         }
     }
 }

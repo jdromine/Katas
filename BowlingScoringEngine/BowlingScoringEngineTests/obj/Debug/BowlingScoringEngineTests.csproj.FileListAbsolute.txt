@@ -12,3 +12,5 @@ C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bi
 C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.csprojResolveAssemblyReference.cache
 C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.dll
 C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\obj\Debug\BowlingScoringEngineTests.pdb
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Josh Romine\GIT\Katas\BowlingScoringEngine\BowlingScoringEngineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
